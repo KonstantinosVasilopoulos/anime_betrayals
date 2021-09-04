@@ -6,6 +6,14 @@
     background-repeat: no-repeat;
 }
 
+#betrayals {
+    box-shadow: inset 0 3px 5px black;
+}
+
+.line {
+    border-top: 1px solid lightslategray;
+}
+
 @media only screen and (max-width: 640px) {
     #welcome {
         background-position: center;
