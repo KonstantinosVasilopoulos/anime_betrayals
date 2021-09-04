@@ -26,7 +26,7 @@ const Home: FC<Props> = ({ initBetrayals }) => {
         <>
             <div id="welcome" style={{ backgroundImage: 'url("./naruto-background.jpg")' }} className="min-h-screen">
                 <div className="absolute inset-x-0 bottom-6 text-center md:text-left md:left-1/10 md:inset-y-1/2">
-                    <h1 className="bg-clip-text bg-red-400 text-gray-800 text-7xl font-bold md:text-9xl">Welcome to<br />Anime-chan!</h1>
+                    <h1 className="inline bg-black text-gray-200 text-7xl font-bold md:text-9xl">Welcome to<br />Anime-chan!</h1>
                 </div>
             </div>
 
