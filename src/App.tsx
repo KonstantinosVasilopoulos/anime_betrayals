@@ -25,10 +25,16 @@ const betrayals: Betrayal[] = [
   {
     name: 'Itachi Commits Genocide',
     description: 'Naruto has become one of the most iconic animated shows, so it’s only understandable that it would have one of the most powerful anime betrayals. The Uchiha Clan was one of the four noble clans of Konohagakure, and also one of the strongest because of their Sharingan. Clan members also displayed natural battle skill and took part in wars against different factions. At some point in history, they planned to have a coup d’état to overthrow the Third Hokage and his administration because they doubted his leadership. \nSeveral clan members voted against the idea, seeing the coup as just another reason to start a new world war.Konohagakure elder Danzo Shimura acted with his own interest to protect Konoha and spoke to Itachi Uchiha regarding the uprising.Danzo offered him two options: let the Uchiha proceed with their coup that would lead to their death, or kill the clan himself while sparring his brother, Sasuke. Itachi decided to choose the latter idea and enlisted help from Tobi, wiping the entire clan out in one night.Itachi took all responsibility for his actions and urged Sasuke to seek revenge against him, pushing his brother to grow stronger. Sasuke eventually decided to gain more power by betraying his friends and siding with Orochimaru.',
-    anime: 'Naturo',
+    anime: 'Naruto',
     score: 10,
     image: 'itachi-Uchiha-best-moments-Naruto-4.jpeg'
   },
+  // {
+  //   name: 'Some betrayal',
+  //   description: '',
+  //   anime: 'The rising of the shield hero',
+  //   score: 3.1
+  // },
 ]
 
 const App = () => (
